@@ -129,7 +129,7 @@ AI = {
 
 		default = {
 			full_names = {
-				"Fleet Array MZ-34" "Fleet Array P2-XR0" "Fleet Array 19-G" "Fleet Array Q-12" "Fleet Array XI-130" "Fleet Array V13" "Fleet Array 44/1" "Fleet Array LFA-5" "Fleet Array 15/57" "Fleet Array J-14" "Fleet Array OR-004" "Fleet Array KT-5" "Fleet Array 0009-X" "Fleet Array Alpha-2" "Fleet Array 388-F" "Fleet Array M8-4" "Fleet Array 54.2" "Fleet Array 54.1" "Fleet Array 48B" "Fleet Array XR-2" "Fleet Array FR-9" "Fleet Array VK-12" "Fleet Array HK-48" "Fleet Array L8P9" "Fleet Array IX-1442" "Fleet Array U-89" "Fleet Array PDX-1" "Fleet Array S09-B" "Fleet Array S0B" "Fleet Array M1D" "Fleet Array F-19" "Fleet Array TLY-68" "Fleet Array 14/2" "Fleet Array BX-4" "Fleet Array Kappa 5" "Fleet Array Sigma" "Fleet Array YT-8" "Fleet Array M4-L" "Fleet Array 38-38" "Fleet Array 8-99"
+				"舰船阵列 MZ-34" "舰船阵列 P2-XR0" "舰船阵列 19-G" "舰船阵列 Q-12" "舰船阵列 XI-130" "舰船阵列 V13" "舰船阵列 44/1" "舰船阵列 LFA-5" "舰船阵列 15/57" "舰船阵列 J-14" "舰船阵列 OR-004" "舰船阵列 KT-5" "舰船阵列 0009-X" "舰船阵列 Alpha-2" "舰船阵列 388-F" "舰船阵列 M8-4" "舰船阵列 54.2" "舰船阵列 54.1" "舰船阵列 48B" "舰船阵列 XR-2" "舰船阵列 FR-9" "舰船阵列 VK-12" "舰船阵列 HK-48" "舰船阵列 L8P9" "舰船阵列 IX-1442" "舰船阵列 U-89" "舰船阵列 PDX-1" "舰船阵列 S09-B" "舰船阵列 S0B" "舰船阵列 M1D" "舰船阵列 F-19" "舰船阵列 TLY-68" "舰船阵列 14/2" "舰船阵列 BX-4" "舰船阵列 Kappa 5" "舰船阵列 Sigma" "舰船阵列 YT-8" "舰船阵列 M4-L" "舰船阵列 38-38" "舰船阵列 8-99"
 			}
 			
 			first_names = {
