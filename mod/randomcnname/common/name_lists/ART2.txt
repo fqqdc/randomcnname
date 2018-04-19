@@ -1,0 +1,194 @@
+﻿### 节肢动物 2
+### Created by Maximilian Olbers
+
+ART2 = {	
+	ship_names = {	
+		generic = {
+			里提洛 里提雷苏克 里提凯匹 里提法 里提维勒 里提雷法 里提崔克 里提菲克斯 里提祖德 里提拉克斯 里提普库 里提凯尔 里提沃德  里提尤兹 里提洛克斯 里提洛勒 里提阿克斯 里提姆恩 里提法哈 里提凯克斯 维尔佛 维尔赫勒 维尔兹洛 维尔帕 维尔沃勒 维尔维 维 尔法勒 维尔勒古 兹欧法雷如 兹欧库拉格 兹欧鲁 兹欧欧都 兹欧阿罗柏 兹欧库拉 兹欧凯奥 兹欧兹欧斯 兹欧姆勒 兹欧法兹 兹欧雷克 兹欧柏兹尔 兹欧莱 兹欧乔维 兹欧维格 兹欧格里斯 兹欧格汗 兹欧林里 兹欧鲁格 兹欧里提尔 兹欧法德 帕斯欧尤 帕斯基恩杜 帕斯 扎多兹 帕斯库鲁 帕斯法里 帕斯库特 帕斯佛格德 帕斯金恩 帕斯头格 帕斯欧拉格 帕斯维鲁 帕斯德雷 帕斯乌 帕斯柔恩
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"祖尔菲拉攻击虫群" "寇车武攻击虫群" "克拉米柔攻击虫群" "洛亚英勒攻击虫群" "莱格斯特金攻击虫群" "恩利尤求攻击虫群" "普勒维斯帕攻击虫群" "莫森罗攻击虫群" "却博纳维攻击虫群"
+		}
+		sequential_name = "第%O%攻击虫群"
+	}
+
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "第%O%内卫部队"
+		}
+
+		assault_army = {
+			sequential_name = "第%O%野战部队"
+		}
+		
+		slave_army = {
+			sequential_name = "第%O%奴隶部队"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%O%泛用集团"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%O%机械集团"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "第%O%机械防御工事"
+		}
+
+		android_army = {
+			sequential_name = "第%O%建造者集团"
+		}
+		
+		android_defense_army = {
+			sequential_name = "第%O%建造者防御工事"
+		}
+		
+		psionic_army = {
+			sequential_name = "灵能领主 %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%O%掠夺者"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "超凡者 %R%"
+		}
+		
+		occupation_army = {
+			sequential_name = "第%O%卫戍部队"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%O%机械卫戍集团"
+		}
+		android_occupation_army = {
+			sequential_name = "第%O%建造者卫戍集团"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"赫拉克里奥波里斯" "拉胡" "美杜姆" "代赫舍尔" "赫尔万" "萨卡拉" "孟菲斯" "开罗" "赫里奥波里斯" "布巴斯提斯" "阿瓦瑞斯"
+				"塔尼斯" "布西里斯" "舍伊斯" "布陀" "罗塞塔" "亚历山大里亚" "瓦迪特纳鲁" "贝尼哈桑" "赫尔摩波里斯" "艾斯尤特" "卡奥"
+				"阿赫米姆" "提尼斯" "阿拜多斯" "涅伽达" "科普托斯" "底比斯" "希拉康波里斯" "埃德富" "阿斯旺" "哈里杰" "法尤姆"
+				"西奈" "卢克索" "卡纳克"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				"拉" "休" "泰夫努特" "盖布" "努特" "奥西里斯" "伊西斯" "赛特" "奈芙蒂斯" "阿蒙" "阿努比斯" "荷鲁斯" "阿顿" "阿图姆" "孔斯" "敏" "莫" "姆特" "图特" "贝斯蒂" "艾德乔" "海奎特" "凯布利" "克努姆" "沙提" "塞克荷麦特" "塞勒凯特" "奈贝克" "安穆凯" "阿匹斯" "贝斯" "哈波奎迪克" "哈托尔" "伊姆赫普斯" "马特" "奈特" "奈荷贝特" "布塔" "奎特" "塞克" "艾姆谢特" "哈碧" "多姆泰夫" "凯布山纳夫" "西亚" "胡" "赫卡" "阿波菲斯" "普塔赫" "贝卜" "美尼斯" "荷尔阿哈" "莫内丝" "阿涅德吉布" "瑟斯赫特" "拉内布" "尼内特吉" "温内格" "塞涅德" "内弗卡拉" "谢赫米布" "伯里布森" "哈塞海姆" "内布卡" "左塞尔" "谢海姆赫特" "哈尼" "胡尼"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				"安" "哈拉胡提" "赫鲁埃姆阿克特" "阿顿" "阿图姆" "凯布利" "奥夫" "埃弗" "赫里沙夫"
+			}
+			
+			regnal_second_names = {
+				"拉"
+			}
+		}
+	}
+}
