@@ -3,4 +3,4 @@ path="mod/randomcnname"
 tags={
 	"Translation"
 }
-supported_version="2.0.3"
+supported_version="2.0.*"
