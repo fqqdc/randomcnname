@@ -1,0 +1,194 @@
+﻿### Arthropoid 3
+
+
+ART3 = {	
+	ship_names = {
+	
+		generic = {
+			"浩克列 姆西" "因克列 姆西" "欧派勒 姆西" "扎提斯 姆西" "内克 姆西" "浩克列 斯派雀" "因克列 斯派雀" "欧派勒 斯派雀" "扎 提斯 斯派雀" "内克 斯派雀" "浩克列 尼斯派" "因克列 尼斯派" "欧派勒 尼斯派" "扎提斯 尼斯派" "内克 尼斯派" "浩克列 查杰克" "因克列 查杰克" "欧派勒 查杰克" "扎提斯 查杰克" "内克 查杰克" "浩克列 玛克列" "因克列 玛克列" "欧派勒 玛克列" "扎提斯  玛克列" "内克 玛克列" "浩克列 克拉列" "因克列 克拉列" "欧派勒 克拉列" "扎提斯 克拉列" "内克 克拉列" "浩克列 尤西斯" "因 克列 尤西斯" "欧派勒 尤西斯" "扎提斯 尤西斯" "内克 尤西斯" "浩克列 伊派克" "因克列 伊派克" "欧派勒 伊派克" "扎提斯 伊派 克" "内克 伊派克" "浩克列 拉柏" "因克列 拉柏" "欧派勒 拉柏" "扎提斯 拉柏" "内克 拉柏" "浩克列 梅萨提" "因克列 梅萨提" " 欧派勒 梅萨提" "扎提斯 梅萨提" "内克 梅萨提" "浩克列 泊杰克" "因克列 泊杰克" "欧派勒 泊杰克" "扎提斯 泊杰克" "内克 泊杰 克" "浩克列 北克洛" "因克列 北克洛" "欧派勒 北克洛" "扎提斯 北克洛" "内克 北克洛" "浩克列 维寇帕" "因克列 维寇帕" "欧派 勒 维寇帕" "扎提斯 维寇帕" "内克 维寇帕" "浩克列 拉托斯" "因克列 拉托斯" "欧派勒 拉托斯" "扎提斯 拉托斯" "内克 拉托斯" "浩克列 丹尼柏" "因克列 丹尼柏" "欧派勒 丹尼柏" "扎提斯 丹尼柏" "内克 丹尼柏" "浩克列 斯雀坦" "因克列 斯雀坦" "欧派勒 斯 雀坦" "扎提斯 斯雀坦" "内克 斯雀坦"
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"巴塔克斯攻壳中队" "卡卜洛克攻壳中队" "维提克斯攻壳中队" "帕勒齐攻壳中队" "杰提克斯攻壳中队" "梅提德攻壳中队" "莱克列攻壳中队" "帕拉雀攻壳中队" "萨提德斯攻壳中队"
+		}
+		sequential_name = "第%O%攻壳中队"
+	}
+
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "第%O%防御投射兵团"
+		}
+
+		assault_army = {
+			sequential_name = "第%O%攻击投射兵团"
+		}
+		
+		slave_army = {
+			sequential_name = "第%O%奴隶虫群"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%O%克隆虫群"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%O%机械虱群"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "第%O%机械炮台"
+		}
+
+		android_army = {
+			sequential_name = "第%O%构造体投射兵团"
+		}
+		
+		android_defense_army = {
+			sequential_name = "第%O%构造体防御兵团"
+		}
+		
+		psionic_army = { 
+			sequential_name = "第%O%术士团"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%O%异种投射兵团"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%O%野兽兵团"
+		}
+		occupation_army = {
+			sequential_name = "第%O%占领投射兵团"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%O%机械虱占领兵团"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%O%构造体占领兵团"
+		}
+	}
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+				"普拉克 欧维西" "斯沃克 欧维西" "则提 欧维西" "则泊斯 欧维西" "阿维克 塞提斯" "尤泊勒 塞提斯" "扎提克 塞提斯" "寇齐克 塞提斯" "维齐泊 伊帕兹" "阿拉克 伊帕兹" "齐维克 伊帕兹" "欧玛斯 伊帕兹" "帕米克 克列" "安娜森 克列" "则兹 克列" "莫克 克列" "阿勒斯 哈克扎" "西西维 哈克扎" "哈吉帕 哈克扎" "沃欧泊 哈克扎" "比瑞克 拉区克" "奈比斯 拉区克" "派都肯 拉区克" "柏比 拉区克" "查欧勒 提瑞斯" "阿维索 提瑞斯" "帕尼克 提瑞斯" "柏曲斯 提瑞斯" "莫斯佛 欧寇都" "户帕克 欧寇都" "阿克西 欧寇都" "塞里巴 欧寇都"
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				拉克 伊铁勒 派勒克 寨泊 因尼克 祖提尔 法提克 金宾 拉克斯 帕利提 法克 西勒辛 勒派克 提凯特 罗卜克 奈维 克洛派克 阿辛 阿皮尼斯 罗普 埃呐克斯 扎林 尤尼帕 柏口 扎克斯 克日提克 扎斯派 赞罗泊 泊克百提 克鲁克拉 泊费克 勒雀克 俄金 伊泊雷 所克龙 佛 内克 尤尼克 雀哈克 埃克塞
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				克巴纳克 瓦提纳卡 阿泊纳克 伊塔纳卡 阿泊维塔 扎柏贝维塔 费金维塔 因那维塔 泊西纳提斯 因那辛提斯 洛比尼提斯 尤提纳提 洛派金 呼提金 埃泊金 扎提金 克鲁提克 皮提卡 洛提卡 克提卡 安雷提卡
+			}
+			
+			regnal_first_names = {
+				潘'多法 山'多法 岚'多法 塞泊'多法 泰泊'多法 茨西'多法 罗泊'多法 科尔'多法
+			}
+			
+			regnal_second_names = {
+				里迪辛纳克 扎尔皮塔纳克 欧玛提辛纳克 克洛比辛纳克
+			}
+		}
+	}
+}
