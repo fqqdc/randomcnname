@@ -1,4 +1,5 @@
-﻿### Arthropoid 3
+﻿### 节肢类 3
+### Created by Alexander Oltner
 
 
 ART3 = {	

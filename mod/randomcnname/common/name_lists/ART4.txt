@@ -1,11 +1,11 @@
-﻿### Arthropoid 4
+﻿### 节肢类 4
 ### Created by Henrik Eklund
 
 ART4 = {	
 	ship_names = {
 	
 		generic = {
-			sik'Ib'Al sik'Ra'Tu sik'Va'Ba sik'Nu'Ku sik'Sa'Sa sik'Ve'To sik'Re'Ra sik'Vi'Va sik'Qa'Re sik'El'Re sik'To'Ba sik'Er'Ko mok'Ta'Vi mok'Zu'Ra mok'Ze'Va mok'Ve'Ta mok'Ib'Ga mok'Ba'Ri mok'Or'Pi mok'Ra'Ta mok'Sa'La mok'Ym'Ve bak'Ta'Ta bak'Ni'Va bak'Ir'Za bak'Ur'Ma bak'Av'Ta bak'Ir'Ba bak'Ma'Na bak'Ta'Zi bak'Ri'Ve bak'Yr'Ye iba'Sa'Ni iba'Ka'To iba'Ke'Zu iba'In'Ve iba'Se'Ta iba'Qu'Tu iba'Ge'Va iba'No'Ka iba'Na'Be iba'Po'Zo iba'Yr'Ti kor'Ne'Bi kor'Sa'Zi kor'Ti'Ba kor'Nu'Vi kor'Di'Za kor'Be'Ze kor'Ni'Or kor'Pa'Li kor'Se'Ta kor'Ur'Da kor'Ti'Ya kor'Be'Ke kor'Di'Pi kor'Te'Ko kor'Le'Ta puk'Na'Sa puk'Vy'Va puk'Bo'Li puk'Ze'Na puk'Mi'Pi puk'Bi'Na puk'Ir'Ul puk'Te'Mi puk'Si'Ta puk'Qo'Ri puk'Qo'Qa puk'Bi'Vi puk'Er'Ir puk'An'Ta puk'Ve'Za
+			辛克'伊'埃 辛克'雷'突 辛克'瓦'巴 辛克'奴'库 辛克'萨'萨 辛克'维'同 辛克'列'雷 辛克'万'瓦 辛克'查'列 辛克'恶'列 辛克'同'巴 辛克'俄'寇 莫克'塔'万 莫克'祖'雷 莫克'则'瓦 莫克'维'塔 莫克'伊'噶 莫克'巴'瑞 莫克'欧'皮 莫克'雷'塔 莫克'萨'拉 莫克'赢' 维 巴克'塔'塔 巴克'尼'瓦 巴克'英'扎 巴克'尤'玛 巴克'昂'塔 巴克'英'巴 巴克'玛'纳 巴克'塔'兹 巴克'瑞'维 巴克'央'耶 埃巴'萨'尼 埃巴'卡'同 埃巴'克'祖 埃巴'因'维 埃巴'森'塔 埃巴'求'突 埃巴'格'瓦 埃巴'农'卡 埃巴'纳'贝 埃巴'朴'邹 埃巴'央'提 空'涅'币 空'萨'兹 空'提'巴 空'奴'万 空'迪'扎 空'贝'则 空'尼'欧 空'帕'里 空'森'塔 空'尤'达 空'提'亚 空'贝'克 空'迪'皮 空'帖'寇 空'勒'塔 普克'纳'萨 普克'丸'瓦 普克'泊'里 普克'则'纳 普克'米'皮 普克'币'纳 普克'英'约 普克'帖'米 普克'辛'塔 普克'虫'瑞  普克'虫'查 普克'币'万 普克'俄'英 普克'安'塔 普克'维'扎
 		}
 	
 		corvette = {
@@ -48,67 +48,67 @@ ART4 = {
 	
 	fleet_names = {
 		random_names = {
-			"Deep Space Flotilla" "Special Reaction Flotilla" "Punitive Response Flotilla" "Rapid Pursuit Flotilla" "Frontier Patrol Flotilla"
+			"深空船队" "特反船队" "惩戒船队" "快捕船队" "边防船队"
 		}
-		sequential_name = "%O% Assault Flotilla"
+		sequential_name = "第%O%突击船队"
 	}
 
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Defense Pod"
+			sequential_name = "第%O%守卫群"
 		}
 			
 		assault_army = {
-			sequential_name = "%O% Assault Pod"
+			sequential_name = "第%O%突击群"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Slave Pod"
+			sequential_name = "第%O%奴隶群"
 		}
 		
 		clone_army = {
-			sequential_name = "%O% Clone Pod"
+			sequential_name = "第%O%克隆群"
 		}
 
 		robotic_army = {
-			sequential_name = "%O% Droid Pod"
+			sequential_name = "第%O%机械群"
 		}
 		
 		robotic_defense_army = {
-			sequential_name = "%O% Droid Defense Pod"
+			sequential_name = "第%O%机械守卫群"
 		}
 
 		android_army = {
-			sequential_name = "%O% Android Pod"
+			sequential_name = "第%O%智械群"
 		}
 		
 		android_defense_army = {
-			sequential_name = "%O% Android Defense Pod"
+			sequential_name = "第%O%智械守卫群"
 		}
 		
 		psionic_army = {
-			sequential_name = "%O% Psi-Commando Pod"
+			sequential_name = "第%O%灵能特种群"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Xenomorph Pod"
+			sequential_name = "第%O%异形群"
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "%O% Gene-Commando Pod"
+			sequential_name = "第%O%基因特种群"
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Occupation Pod"
+			sequential_name = "第%O%卫戍群"
 		}
 
 		robotic_occupation_army = {
-			sequential_name = "%O% Occupation Droid Pod"
+			sequential_name = "第%O%机械卫戍群"
 		}
 
 		android_occupation_army = {
-			sequential_name = "%O% Occupation Android Pod"
+			sequential_name = "第%O%智械卫戍群"
 		}
 	}
 	
@@ -116,7 +116,7 @@ ART4 = {
 	
 		generic = {
 			names = {
-				s'Vak'N-Ta g'Vik'I-Zi i'Bek'V-Ti b'Nil'T-Ka b'Kin'A-Bi b'Ren'K-Za s'Tik'M-Ki s'Nal'U-Bu s'Vel'N-Ve g'Tal'R-Ab g'Til'P-Tu g'Zak'V-Ni g'Pek'G-Ro g'Bik'E-Sa i'Von'Z-An i'Tel'D-Na i'Zel'V-Go i'Ren'O-An i'Sab'S-Op s'Kas'T-Ek s'Kir'P-An s'Ima'K-In p'Ana'Z-Vi p'Tol'V-Na p'Rin'O-Vi p'Rak'U-Ga p'Nik'A-Ti
+				s'沃克'N-塔 g'维克'I-兹 i'贝克'V-提 b'尼勒'T-卡 b'金'A-比 b'雷恩'K-扎 s'提克'M-吉 s'纳尔'U-卜 s'维勒'N-文 g'塔勒'R-埃 g'提勒'P-突 g'扎克'V-尼 g'派克'G-洛 g'比克'E-萨 i'沃恩'Z-安 i'特勒'D-纳 i'扎勒'V-苟 i'雷恩'O-安 i'萨柏'S-欧普 s'卡斯'T-诶 克 s'科'P-安 s'埃玛'K-因 p'安纳'Z-维 p'拓勒'V-纳 p'零'O-维 p'雷克'U-噶 p'尼克'A-提
 			}
 		}
 		
@@ -175,20 +175,20 @@ ART4 = {
 			
 			# Always combined with a second name
 			first_names = {
-				Ir'B An'K Su'V Te'K In'D Ar'I Be'K Bi'V Ve'K Vi'T Al'D De'B Il'T Ra'B Ra'I Bu'S Se'K Si'V
+				埃'B 安'K 苏'V 特'K 埃恩'D 昂'I 贝'K 比'V 沃'K 维'T 阿勒'D 德'B 埃勒'T 雷'B 雷'I 卜'S 色'K 斯'V
 			}
 			
 			# Always combined with a first name
 			second_names = {
-				se'Ska ba'Riv or'Tob ni'Var ki'Rav si'Kor va'Bir ra'Tov il'Tek po'Kar tu'Vak er'Bik
+				色'斯卡 巴'雷维 欧'头柏 尼'瓦尔 金'列维 西'寇 瓦'比 雷'头维 伊'特克 泊'卡 图'瓦克 尔'比克
 			}
 			
 			regnal_first_names = {
-				Ir'B An'K Su'V Te'K In'D Ar'I Be'K
+				埃'B 安'K 苏'V 特'K 埃恩'D 昂'I 贝'K
 			}
 			
 			regnal_second_names = {
-				se'Ska
+				色'斯卡
 			}
 		}
 	}

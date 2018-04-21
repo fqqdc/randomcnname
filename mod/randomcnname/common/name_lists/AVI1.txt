@@ -1,0 +1,198 @@
+﻿### 鸟类 1
+### Created by Henrik Eklund
+
+AVI1 = {
+	ship_names = {
+
+		generic = {
+			"翱翔的雏鹰" "战斗的雏鹰" "敏捷的雏鹰" "无畏的雏鹰" "坚韧的雏鹰" "狂怒的雏鹰" "自信的雏鹰" "聪明的雏鹰" "机灵的雏鹰" "慷慨的雏鹰" "欣喜的雏鹰" "大胆的雏鹰" "疯狂的雏鹰" "敏锐的雏鹰" "嫉妒的雏鹰" "恶毒的雏鹰" "复仇的雏鹰" "不休的雏鹰" "贪婪的雏鹰" "冷酷的雏鹰" "勇敢的雏鹰" "大胆的雏鹰" "快乐的雏鹰" "愤怒的雏鹰" "狡猾的雏鹰" "荒唐的雏鹰" "高兴的雏鹰" "无常的雏鹰" "谨慎的雏鹰" "孤僻的雏鹰" "敏感的雏鹰" "莫测的雏鹰" "鲁莽的雏鹰" "邪恶的雏鹰" "欺诈的雏鹰" "优雅的雏鹰" "顽强的雏鹰" "耐心的雏鹰" "强壮的雏鹰" "凶猛的雏鹰" "狰狞的雏鹰" "无懈的雏鹰" "幸运的雏鹰" "勇武的雏鹰" "急促的雏鹰" "无理的雏鹰" "可靠的雏鹰" "活泼的雏鹰" "狂野的雏鹰" "活力的雏鹰" "热情的雏鹰" "Vigorous 雏鹰" "Mettlesome 雏鹰" "Lively 雏鹰" "Brisk 雏鹰" "Animated 雏鹰" "Tenacious 雏鹰" "Pertinacious 雏鹰" "Stubborn 雏鹰" "Resolute 雏鹰" "Obstinate 雏鹰" "Obdurate 雏鹰" "Ferocious 雏鹰" "Frenzied 雏鹰" "Tempestuous 雏鹰" "Turbulent 雏鹰" "Reckless 雏鹰" "Savage 雏鹰" "Unrestrained 雏鹰" "Riotous 雏鹰" "Insane 雏鹰" "Boisterous 雏鹰" "Rowdy 雏鹰" "Clamorous 雏鹰" "Persistent 雏鹰" "Vehement 雏鹰" "Zealous 雏鹰" "Passionate 雏鹰" "Rapacious 雏鹰" "Valiant 雏鹰" "Dauntless 雏鹰" "Stout 雏鹰" "Unkempt 雏鹰" "Ungroomed 雏鹰" "Deranged 雏鹰" "Demented 雏鹰" "Impatient 雏鹰" "Nonconforming 雏鹰" "Imprudent 雏鹰" "Rash 雏鹰" "Heedless 雏鹰" "Oblivious 雏鹰" "Violent 雏鹰" "Undomesticated 雏鹰" "Feral 雏鹰" "Wayward 雏鹰" "Capricious 雏鹰" "Volatile 雏鹰" "Mercurial 雏鹰" "Sprightly 雏鹰" "Blithe 雏鹰" "Merry 雏鹰" "Joyous 雏鹰" "Cheerful 雏鹰" "Buoyant 雏鹰" "Invigorated 雏鹰" "Mirthful 雏鹰" "Spry 雏鹰" "Alert 雏鹰" "Headstrong 雏鹰" "Unruly 雏鹰" "Refractory 雏鹰" "Eccentric 雏鹰" "Erratic 雏鹰" "Peculiar 雏鹰" "Deviant 雏鹰" "Testy 雏鹰" "Cross 雏鹰" "Irascible 雏鹰" "Choleric 雏鹰" "Wrathful 雏鹰" "Brusque 雏鹰" "Gruff 雏鹰" "Surly 雏鹰" "Uncivil 雏鹰" "Crabby 雏鹰" "Sullen 雏鹰" "Splenetic 雏鹰" "Ominous 雏鹰" "Gloomy 雏鹰" "Dour 雏鹰" "Imperious 雏鹰" "Haughty 雏鹰" "Proud 雏鹰" "Scornful 雏鹰" "Contemptuous 雏鹰" "Supercilious 雏鹰" "Singing 雏鹰" "Attentive 雏鹰" "Watchful 雏鹰" "Impish 雏鹰"
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	ship_class_names = {
+		generic = {
+			V'Taka K'Mirom "M'Iskar Ro" S'Porak S'Kothan J'Kal Yeerel Yaaskan L'Dorak Bwiik Kraanak J'Vorok M'Sarok S'Tirani V'Irimak S'Tarok M'Isoram "D'Panok Ro" "V'Bami Ro" Yaruuk Bwaaki Koruuk K'Tanek S'Kiro D'Daduro J'Kilar S'Rarako V'Korun "V'Turi Ro" 
+		}		
+	}
+
+	fleet_names = {
+		random_names = {
+			"金色星群" "羽饰星群" "崇高星群" "荣耀星群" "翱翔星群" "高耸星群" "Y'莎卡星群" "U'鲁苏星群" "S'萨罗那星群" "T'苏那星群" "Y'雀纳星群" "S'阿塔尼斯星群" "Y'伊萨尼星群"
+		}
+		sequential_name = "第%O%星群"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = "第%O%守卫之翼"
+		}
+			
+		assault_army = {
+			sequential_name = "第%O%群星之子"
+		}
+		
+		slave_army = {
+			sequential_name = "第%O%仆从军"
+		}
+		
+		clone_army = { 
+			sequential_name = "第%O%克隆前锋"
+		}
+		
+		robotic_army = {
+			sequential_name = "第%O%机械纵队"
+		}
+		
+		robotic_defense_army = {
+			sequential_name = "第%O%机械哨兵"
+		}
+
+		android_army = {
+			sequential_name = "第%O%半机械化震慑部队"
+		}
+		
+		android_defense_army = {
+			sequential_name = "第%O%半机械化哨兵"
+		}
+		
+		psionic_army = { 
+			sequential_name = "心灵维序者 %R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "第%O%异种兽群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "第%O%死神别动队"
+		}
+
+		occupation_army = {
+			sequential_name = "第%O%卫戍之翼"
+		}
+
+		robotic_occupation_army = {
+			sequential_name = "第%O%卫戍机械"
+		}
+
+		android_occupation_army = {
+			sequential_name = "第%O%卫戍哨兵"
+		}
+	}
+		
+	planet_names = {
+
+		generic = {
+			names = {
+				S'Prekeel J'Khanal S'Narkeel K'Karom "S'Kerin Vak" "Soska V'Ta" S'Bakri Yeethkri Bwaakar V'Vidir V'Ra M'Rak'Vo K'Karaal V'Bindak Yeerok Kraak Deekri T'Tra C'Knoor S'Pemkru Bwreek T'Valdra K'Vra'Kok J'Mideer Jyylkir S'Vrak T'Sondek Paaltok M'Ruut C'Viirb T'Bukred D'Vraadir K'Mhakreer V'Tyykre Vakwaark Kwaarik K'Rosok S'Narabu Briik B'Nuraka "Vetin V'Ta" "Y'Tari Vak" Pitirii Taakir Brangakii 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+
+		pc_savannah = {
+			names = {
+			}
+		}
+
+		pc_alpine = {
+			names = {
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				Kreemak B'Raaki Reetril Yeedik L'Krami Eerkal Y'Sarkee Y'Heetak Lagraak Skraak T'Anaark Reebik P'Kida D'Kheera K'Reel T'Rootik Skeerid P'Dykna Haatrek Y'Ridaak Y'Heeka Kurukaa Sikirooka Y'Hree B'Nookar Skreeki T'Marik D'Sariik K'Nuurak S'Kuurik L'Matreek Raakur Sakeeri Yuruuk T'Kiiri T'Maku B'Rhii B'Kuura L'Kiri P'Kakuur P'Konori R'Tariik Koorivi R'Tanoka R'Tanik Haakanu Haabik Kaabik Eerabik Saakubik
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+				Kreemak B'Raaki Reetril Yeedik L'Krami Eerkal Y'Sarkee Y'Heetak Lagraak Skraak
+			}
+			
+			regnal_second_names = {
+				Koriik
+			}
+		}
+	}
+}
