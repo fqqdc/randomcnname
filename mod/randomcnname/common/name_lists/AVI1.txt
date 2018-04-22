@@ -5,7 +5,7 @@ AVI1 = {
 	ship_names = {
 
 		generic = {
-			"翱翔的雏鹰" "战斗的雏鹰" "敏捷的雏鹰" "无畏的雏鹰" "坚韧的雏鹰" "狂怒的雏鹰" "自信的雏鹰" "聪明的雏鹰" "机灵的雏鹰" "慷慨的雏鹰" "欣喜的雏鹰" "大胆的雏鹰" "疯狂的雏鹰" "敏锐的雏鹰" "嫉妒的雏鹰" "恶毒的雏鹰" "复仇的雏鹰" "不休的雏鹰" "贪婪的雏鹰" "冷酷的雏鹰" "勇敢的雏鹰" "大胆的雏鹰" "快乐的雏鹰" "愤怒的雏鹰" "狡猾的雏鹰" "荒唐的雏鹰" "高兴的雏鹰" "无常的雏鹰" "谨慎的雏鹰" "孤僻的雏鹰" "敏感的雏鹰" "莫测的雏鹰" "鲁莽的雏鹰" "邪恶的雏鹰" "欺诈的雏鹰" "优雅的雏鹰" "顽强的雏鹰" "耐心的雏鹰" "强壮的雏鹰" "凶猛的雏鹰" "狰狞的雏鹰" "无懈的雏鹰" "幸运的雏鹰" "勇武的雏鹰" "急促的雏鹰" "无理的雏鹰" "可靠的雏鹰" "活泼的雏鹰" "狂野的雏鹰" "活力的雏鹰" "热情的雏鹰" "Vigorous 雏鹰" "Mettlesome 雏鹰" "Lively 雏鹰" "Brisk 雏鹰" "Animated 雏鹰" "Tenacious 雏鹰" "Pertinacious 雏鹰" "Stubborn 雏鹰" "Resolute 雏鹰" "Obstinate 雏鹰" "Obdurate 雏鹰" "Ferocious 雏鹰" "Frenzied 雏鹰" "Tempestuous 雏鹰" "Turbulent 雏鹰" "Reckless 雏鹰" "Savage 雏鹰" "Unrestrained 雏鹰" "Riotous 雏鹰" "Insane 雏鹰" "Boisterous 雏鹰" "Rowdy 雏鹰" "Clamorous 雏鹰" "Persistent 雏鹰" "Vehement 雏鹰" "Zealous 雏鹰" "Passionate 雏鹰" "Rapacious 雏鹰" "Valiant 雏鹰" "Dauntless 雏鹰" "Stout 雏鹰" "Unkempt 雏鹰" "Ungroomed 雏鹰" "Deranged 雏鹰" "Demented 雏鹰" "Impatient 雏鹰" "Nonconforming 雏鹰" "Imprudent 雏鹰" "Rash 雏鹰" "Heedless 雏鹰" "Oblivious 雏鹰" "Violent 雏鹰" "Undomesticated 雏鹰" "Feral 雏鹰" "Wayward 雏鹰" "Capricious 雏鹰" "Volatile 雏鹰" "Mercurial 雏鹰" "Sprightly 雏鹰" "Blithe 雏鹰" "Merry 雏鹰" "Joyous 雏鹰" "Cheerful 雏鹰" "Buoyant 雏鹰" "Invigorated 雏鹰" "Mirthful 雏鹰" "Spry 雏鹰" "Alert 雏鹰" "Headstrong 雏鹰" "Unruly 雏鹰" "Refractory 雏鹰" "Eccentric 雏鹰" "Erratic 雏鹰" "Peculiar 雏鹰" "Deviant 雏鹰" "Testy 雏鹰" "Cross 雏鹰" "Irascible 雏鹰" "Choleric 雏鹰" "Wrathful 雏鹰" "Brusque 雏鹰" "Gruff 雏鹰" "Surly 雏鹰" "Uncivil 雏鹰" "Crabby 雏鹰" "Sullen 雏鹰" "Splenetic 雏鹰" "Ominous 雏鹰" "Gloomy 雏鹰" "Dour 雏鹰" "Imperious 雏鹰" "Haughty 雏鹰" "Proud 雏鹰" "Scornful 雏鹰" "Contemptuous 雏鹰" "Supercilious 雏鹰" "Singing 雏鹰" "Attentive 雏鹰" "Watchful 雏鹰" "Impish 雏鹰"
+			"翱翔的雏鸟" "战斗的雏鸟" "敏捷的雏鸟" "叛逆的雏鸟" "坚韧的雏鸟" "狂怒的雏鸟" "自信的雏鸟" "聪明的雏鸟" "机灵的雏鸟" "慷慨的雏鸟" "欣喜的雏鸟" "大胆的雏鸟" "疯癫的雏鸟" "敏锐的雏鸟" "嫉妒的雏鸟" "恶毒的雏鸟" "复仇的雏鸟" "不休的雏鸟" "饥饿 的雏鸟" "冷酷的雏鸟" "勇敢的雏鸟" "无畏的雏鸟" "快乐的雏鸟" "愤怒的雏鸟" "狡猾的雏鸟" "荒唐的雏鸟" "高兴的雏鸟" "无常的 雏鸟" "谨慎的雏鸟" "孤僻的雏鸟" "敏感的雏鸟" "莫测的雏鸟" "浮躁的雏鸟" "邪恶的雏鸟" "欺诈的雏鸟" "优雅的雏鸟" "顽强的雏 鸟" "耐心的雏鸟" "强壮的雏鸟" "凶残的雏鸟" "狰狞的雏鸟" "无懈的雏鸟" "幸运的雏鸟" "勇武的雏鸟" "急促的雏鸟" "无理的雏鸟" "可靠的雏鸟" "活泼的雏鸟" "狂野的雏鸟" "好动的雏鸟" "热情的雏鸟" "活力的雏鸟" "旺盛的雏鸟" "兴致的雏鸟" "忙碌的雏鸟" " 热烈的雏鸟" "固执的雏鸟" "坚定的雏鸟" "倔强的雏鸟" "果断的雏鸟" "执拗的雏鸟" "顽固的雏鸟" "凶猛的雏鸟" "狂暴的雏鸟" "骚 动的雏鸟" "混乱的雏鸟" "鲁莽的雏鸟" "野蛮的雏鸟" "放纵的雏鸟" "蛮横的雏鸟" "疯狂的雏鸟" "喧嚣的雏鸟" "捣乱的雏鸟" "吵闹 的雏鸟" "执着的雏鸟" "热心的雏鸟" "狂热的雏鸟" "激昂的雏鸟" "贪婪的雏鸟" "英勇的雏鸟" "不屈的雏鸟" "肥胖的雏鸟" "凌乱的 雏鸟" "无遮的雏鸟" "失常的雏鸟" "不安的雏鸟" "急躁的雏鸟" "桀骜的雏鸟" "轻率的雏鸟" "冲动的雏鸟" "粗心的雏鸟" "健忘的雏 鸟" "暴力的雏鸟" "不驯的雏鸟" "野性的雏鸟" "任性的雏鸟" "善变的雏鸟" "易变的雏鸟" "多变的雏鸟" "轻快的雏鸟" "无忧的雏鸟" "愉快的雏鸟" "喜悦的雏鸟" "爽朗的雏鸟" "振奋的雏鸟" "焕发的雏鸟" "欢笑的雏鸟" "生气的雏鸟" "警惕的雏鸟" "刚愎的雏鸟" " 无序的雏鸟" "乖戾的雏鸟" "古怪的雏鸟" "乖僻的雏鸟" "离奇的雏鸟" "不轨的雏鸟" "易怒的雏鸟" "恼怒的雏鸟" "暴躁的雏鸟" "凶 狠的雏鸟" "激愤的雏鸟" "无礼的雏鸟" "冷淡的雏鸟" "阴沉的雏鸟" "失礼的雏鸟" "别扭的雏鸟" "忧郁的雏鸟" "恶意的雏鸟" "不祥 的雏鸟" "阴暗的雏鸟" "严厉的雏鸟" "专横的雏鸟" "傲慢的雏鸟" "骄傲的雏鸟" "轻蔑的雏鸟" "鄙夷的雏鸟" "高傲的雏鸟" "歌唱的 雏鸟" "细心的雏鸟" "提防的雏鸟" "顽皮的雏鸟"
 		}
 
 		corvette = {
@@ -47,7 +47,7 @@ AVI1 = {
 
 	ship_class_names = {
 		generic = {
-			V'Taka K'Mirom "M'Iskar Ro" S'Porak S'Kothan J'Kal Yeerel Yaaskan L'Dorak Bwiik Kraanak J'Vorok M'Sarok S'Tirani V'Irimak S'Tarok M'Isoram "D'Panok Ro" "V'Bami Ro" Yaruuk Bwaaki Koruuk K'Tanek S'Kiro D'Daduro J'Kilar S'Rarako V'Korun "V'Turi Ro" 
+			V'塔卡 K'米柔 "M'伊斯卡 罗" S'朴拉克 S'寇森 J'卡勒 耶柔 亚斯肯 L'多列克 维克 克拉那克 J'沃热克 M'萨列克 S'雀尼 V'伊里玛 S'塔列克 M'伊叟列 "D'派纳克 罗" "V'巴米 罗" 亚鲁克 瓦奇 寇鲁克 K'塔涅克 S'克欧 D'达德欧 J'吉勒 S'雷阿寇 V'寇刃 "V'图里 罗" 
 		}		
 	}
 
